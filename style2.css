@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: Neou;
-    src: url(https://github.com/berto999/berto999.github.io/blob/master/Neou-Thin.ttf);
+    src: url('https://github.com/berto999/berto999.github.io/blob/master/Neou-Thin.ttf') format('truetype');
 	
 	font-family: RobotoCondensed;
     src: url('roboto-condensed.ttf')  format('truetype');
