@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: Neou;
-    src: url('https://github.com/berto999/berto999.github.io/blob/master/Neou-Thin.ttf')  format('truetype');
+    src: url(https://github.com/berto999/berto999.github.io/blob/master/Neou-Thin.ttf)  format('truetype');
 }
 
 @font-face {	
 	font-family: RobotoCondensed;
-    src: url('https://github.com/berto999/berto999.github.io/blob/master/roboto-condensed.ttf')  format('truetype');
+    src: url(https://github.com/berto999/berto999.github.io/blob/master/roboto-condensed.ttf)  format('truetype');
     font-weight: normal;
     font-style: normal;
 }
