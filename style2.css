@@ -2,13 +2,13 @@
 @font-face {
     font-family: Neou;
     src: local('☺'), 
-    	 url(https://github.com/berto999/berto999.github.io/blob/master/Neou-Thin.ttf)  format('truetype');
+    	 url(https://github.com/berto999/berto999.github.io/raw/master/Neou-Thin.ttf)  format('truetype');
 }
 
 @font-face {	
 	font-family: RobotoCondensed;
     src: local('☺'), 
-    	 url(https://github.com/berto999/berto999.github.io/blob/master/roboto-condensed.ttf)  format('truetype');
+    	 url(https://github.com/berto999/berto999.github.io/raw/master/roboto-condensed.ttf)  format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -16,7 +16,7 @@
 @font-face {
     font-family: BasicTitle;
     src: local('☺'), 
-    	 url(https://github.com/berto999/berto999.github.io/blob/master/basictitlefont.ttf)  format('truetype');
+    	 url(https://github.com/berto999/berto999.github.io/raw/master/basictitlefont.ttf)  format('truetype');
 }
 
 @font-face {
