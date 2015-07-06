@@ -48,6 +48,7 @@ body {
 	min-height: 240px;
 	font-family: Neou;
 	text-decoration: none;
+	width: inherit;
 }
 
 #hist {
@@ -64,9 +65,9 @@ body {
 #logo {
 	display: inline;
 	float: left;
-	padding-right: 100px;
-	margin-right: 60px;
-	margin-left: 100px;
+	padding-right: 115px;
+	margin-right: 90px;
+	margin-left: 120px;
 	border-right: thin solid #000;
 	box-shadow: 6px 0 3px -6px rgba(0, 0, 0, 0.5);
 
@@ -75,9 +76,9 @@ body {
 #menu {
 	display: inline;
 	float: left;
-	padding-top: 10px;
+	padding-top: 12px;
 	font-family: inherit;
-	font-size: 32;
+	font-size: 30;
 }
 
 li {
